@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Example post
+title: test post
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2016-05-16 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Code stuff
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+text text
 
-## Open Sourced on GitHub
+* text
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+* text
