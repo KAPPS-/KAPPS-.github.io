@@ -1,11 +1,10 @@
 @media (max-width:1309px) {
   #cover-photo {
     max-width: 95%;
-    padding-top: 0.4em;
   }
 
   .header {
-    padding-top: 0.6em;
+    padding-top: 3.45em;
   }
 
   .posts {
@@ -28,7 +27,7 @@
   }
 
   .header {
-    padding-top: 0.6em;
+    padding-top: 3.85em;
   }
 
   .posts {
