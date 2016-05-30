@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: imagery-insights
+title: imagery-insights
 cover: cover.jpg
 date: 2016-05-30 12:00:00
 categories: posts
@@ -12,7 +12,7 @@ Over the last five or so years we've seen computer and earth observing scientist
 
 1. new, exciting, increasingly micro-satellite based, constellations to collect imagery at ever increasing temporal, spatial, and spectral resolution, and
 
-2. intensive, scaleable processing frameworks to make sense of all of this data, often with cloud computing, machine learning, and computer vision.
+2. scaleable processing frameworks to make sense of all of this data, often with cloud computing, machine learning, and computer vision.
 
 Of those hoping to sell imagery insight's, some are taking on the first specialization, some are taking on the second, and some are taking on both. We have groups like [Planet Labs](https://www.planet.com/) (and its recently acquired [BlackBridge](http://www.blackbridge.com/)), Google's [Terra Bella](https://terrabella.google.com/) (formerly Skybox), [Astro Digital](https://astrodigital.com/), [DigitalGlobe](https://www.digitalglobe.com/), [OmniEarth](http://www.omniearth.net/index.html), [Descartes Labs](http://www.descarteslabs.com/), [Orbital Insight](https://orbitalinsight.com/), [Farm Logs](https://farmlogs.com/), and [Tellus Labs](http://www.telluslabs.com/). Additionally, there are the FOSS and open data players like [Azavea](http://www.azavea.com/) (with its [GeoTrellis](http://geotrellis.io/) project), [Development Seed](https://developmentseed.org/) (with its [sat-utils and Gippy](https://developmentseed.org/blog/2016/05/03/gippy/)), [MapBox](https://www.mapbox.com/satellite/) (with its [Rasterio library](https://github.com/mapbox/rasterio) and history of [educational blog posts](https://www.mapbox.com/help/processing-satellite-imagery/)), [Amazon Web Services](https://aws.amazon.com/) (with its S3 hosted, free and open, [NASA NEX, NEXRAD and Landsat repositories](https://aws.amazon.com/public-data-sets/), and [Google Earth Engine](https://earthengine.google.com/) (with its hosting of a [diverse array of free and open raster products](https://earthengine.google.com/datasets/)).
 
