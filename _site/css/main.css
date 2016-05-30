@@ -130,6 +130,7 @@ a:hover {
 
 #cover-photo-container,
 #info-container {
+  padding-top: 0.4em;
   display: block;
 }
 
@@ -224,8 +225,8 @@ a:hover {
 .sidebar {
   float: left;
   width: 14%;
-  padding-left: 11em;
-  padding-right: 2.125em;
+  padding-left: 5em;
+  padding-right: 3em;
   border-right: 1px solid #e7e7e7;
 }
 
@@ -235,7 +236,7 @@ a:hover {
 
 .header {
   text-align: center;
-  padding-top: 0em;
+  padding-top: 0.6em;
   font-size: 1.1em;
 }
 
