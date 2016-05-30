@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: Imagery-Insights
+title: Tutorial: imagery-insights
 cover: cover.jpg
 date: 2016-05-30 12:00:00
 categories: posts
