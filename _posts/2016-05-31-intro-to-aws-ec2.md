@@ -46,6 +46,8 @@ Additionally, I recommend that you set up AWS CLI tab completion for ease of use
 complete -C '/usr/local/bin/aws_completer' aws
 ```
 
+Next, we will learn about AWS 'Identities' and permissions..
+
 # 2. Understanding and Setting up IAM Services
 ------------------
 
