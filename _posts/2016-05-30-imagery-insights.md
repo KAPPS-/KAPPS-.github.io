@@ -25,3 +25,5 @@ As one application of this website, I plan to go through some of these tools, sh
 **First up: Getting started with AWS and setting up an EC2 instance, from scratch.**
 
 Thanks for reading!
+
+-Alex
