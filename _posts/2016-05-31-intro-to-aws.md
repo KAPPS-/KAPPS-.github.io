@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: aws and ec2 from scratch
+title: aws-ec2-from-scratch
 cover: cover.jpg
 date: 2016-05-31 12:00:00
 categories: posts
