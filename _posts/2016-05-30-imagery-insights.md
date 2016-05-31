@@ -8,7 +8,7 @@ categories: posts
 
 It's 2016 and the prospects for the burgeoning 'imagery-insights' industry [are exciting](http://www.bloomberg.com/news/articles/2015-09-08/descartes-labs-view-from-space-shows-shrinking-u-s-corn-crop).
 
-Over the last five or so years we've seen computer and earth observing scientists from a diverse background (NASA, military, national laboratory, academic, consulting) combine their understanding of 'the art of the possible', in the remote sensing and data processing realms, with venture capital to fund:
+Within the last five to ten years we've been seeing computer and earth observing scientists from a diverse background (NASA, military, national laboratory, academic, consulting) combining their understanding of 'the art of the possible', in the remote sensing and data processing realms, with venture capital to fund:
 
 1. new, exciting, increasingly micro-satellite based, constellations to collect imagery at ever increasing temporal, spatial, and spectral resolution, and
 
