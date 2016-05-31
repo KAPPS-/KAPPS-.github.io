@@ -1,6 +1,6 @@
 ---
 layout: post
-title: imagery-insights-community
+title: imagery insights community
 cover: cover.jpg
 date: 2016-05-30 12:00:00
 categories: posts
@@ -22,7 +22,7 @@ Anyways, given that introduction: If you are like me, a trained geographer w/ GI
 
 As one application of this website, I plan to go through some of these tools, sharing basic use-case tutorials and demonstrations as I learn, so that you can learn with me (or offer critique) as I go.
 
-**First up: Getting started with AWS and setting up an EC2 instance, from scratch.**
+**First up: [Getting started with AWS and setting up an EC2 instance, from scratch](/posts/2016/05/30/intro-to-aws-ec2.html).**
 
 Thanks for reading!
 
