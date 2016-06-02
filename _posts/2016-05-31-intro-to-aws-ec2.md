@@ -30,7 +30,7 @@ Go to [http://aws.amazon.com/](http://aws.amazon.com/) and click 'Create a Free 
 
 This option allows for a number of 'freebies' across many AWS services including free access to low instance tiers (t2.micro) of EC2 images and 5GB of storage on S3 repositories.
 
-Follow the account setup dialogues. along with some personal information, you'll be asked to provide a payment method gasp, as there is nothing stopping you from exceeding your free account limitations through non-covered usages. While this concept initially frightened me, I found that these services were actually very cheap. Also, since the documentation to sort through the implementation of services is rather dense, one inevitably knows what they are doing before they can get anything to work in the first place.
+Follow the account setup dialogues. along with some personal information, you'll be asked to provide a payment method, *gasp*, as there is nothing stopping you from exceeding your free account limitations through non-covered usages. While this concept initially frightened me, I found that these services were actually very cheap. Also, since the documentation to sort through the implementation of services is rather dense, one inevitably knows what they are doing before they can get anything to work in the first place.
 
 Before we continue, I'll point out that we're using both AWS GUI and AWS CLI to access the services throughout this tutorial. If you have not formerly installed the AWS CLI (this stands for Command Line Interface), then please do that before we move to the next section. The AWS CLI can be installed through 'pip' (the Python Package manager) with:
 
@@ -38,7 +38,7 @@ Before we continue, I'll point out that we're using both AWS GUI and AWS CLI to 
 pip install awscli
 ```
 
-If you're having trouble installing the AWS CLI, then check out AWS's [installation instructions page.](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
+If you're having trouble installing the AWS CLI then check out AWS's [installation instructions page.](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
 
 Additionally, I recommend that you set up AWS CLI tab completion for ease of use. This can be done by adding the following line to your '~/.bash_profile' file on OSX, or the '~/.bashrc' file in Ubuntu:
 
@@ -83,7 +83,7 @@ Default region name [None]: us-east-1
 Default output format [None]: json
 ```
 
-Upon successful completion, 'config' and 'credentials' files will be automatically generated in the hidden directory: '~/.aws' and if you are having trouble with this step, [see the documentation](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) for more thorough instructions.
+Upon successful completion, 'config' and 'credentials' files will be automatically generated in the hidden directory: '~/.aws' and if you are having trouble with this step then [see the documentation](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) for more thorough instructions.
 
 To test for successful configuration, try to access AWS through the command:
 
