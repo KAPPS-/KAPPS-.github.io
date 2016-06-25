@@ -1,3 +1,6 @@
-name: KAPPS-
+name: alexkapps
 markdown: kramdown
 highlighter: rouge
+
+gems:
+  - jekyll-feed
